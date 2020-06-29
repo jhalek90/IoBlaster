@@ -1,6 +1,8 @@
 # IoBlaster
 ## 3d printable Nerf Rival blaster
 
+### Github: [GitHub](https://github.com/jhalek90/IoBlaster/)
+
 #### Overview:
 This blaster can be 3d printed, accepts Nerf Rival mags and takes 130 sized motors.
 
@@ -21,6 +23,8 @@ This blaster can be 3d printed, accepts Nerf Rival mags and takes 130 sized moto
 * 5/64" and 1/16" drill bits
 * 2 130 sized motors
 * 1 cherry "roller" switch
+* 1 small extension spring
+* Length of 1.75mm filament to use as pins
 * Wire
 * Lipo battery
 * Battery connectors (I used xt30)
