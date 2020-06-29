@@ -6,7 +6,7 @@ This blaster can be 3d printed, accepts Nerf Rival mags and takes 130 sized moto
 
 #### Features:
 * 3d printable 
-* Can be assembled with or without screws (2 shell options)
+* Can be assembled with or without as few as 2 screws (2 shell options)
 * Mechanically simple, no pusher motor required
 * Standard 130 size motors
 * Single trigger design
@@ -15,6 +15,16 @@ This blaster can be 3d printed, accepts Nerf Rival mags and takes 130 sized moto
 * Fully automatic firing, around 10 shots per second
 
 #### Firing video: [YouTube](https://youtu.be/nztiFbCmxX8)
+
+#### Required hardware and tools
+* 2 small screws (Magazine detents) 
+* 5/64" and 1/16" drill bits
+* 2 130 sized motors
+* 1 cherry "roller" switch
+* Wire
+* Lipo battery
+* Battery connectors (I used xt30)
+* Soldering iron
 
 #### Photos:
 ![Blaster](/Images/blaster.jpg)
