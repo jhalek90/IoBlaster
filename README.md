@@ -3,7 +3,6 @@
 
 #### Overview:
 This blaster can be 3d printed, accepts Nerf Rival mags and takes 130 sized motors.
-![Blaster](/Images/blaster.jpg)
 
 #### Features:
 * 3d printable 
@@ -15,5 +14,8 @@ This blaster can be 3d printed, accepts Nerf Rival mags and takes 130 sized moto
 * very compact
 * Fully automatic firing, around 10 shots per second
 
-####Internals:
+#### Firing video: [YouTube](https://youtu.be/nztiFbCmxX8)
+
+#### Photos:
+![Blaster](/Images/blaster.jpg)
 ![Internals](/Images/Internals.png)
